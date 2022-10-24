@@ -1,2 +1,2 @@
 # HKUST_Digital_Twin
-#数字孪生_chatbot项目
+#数字人_chatbot项目
